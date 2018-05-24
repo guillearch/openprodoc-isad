@@ -1,0 +1,345 @@
+<OPDList>
+<OPDObject type="PD_DOCDEFS">
+<ListAttr>
+<Attr Name="Name">ISAD_EN</Attr>
+<Attr Name="ClassType">DOCUMENT</Attr>
+<Attr Name="Description">ISAD(G) (EN)</Attr>
+<Attr Name="Active">1</Attr>
+<Attr Name="Created">0</Attr>
+<Attr Name="ACL">DocsCommon</Attr>
+<Attr Name="Parent">PD_DOCS</Attr>
+<Attr Name="Reposit">Reposit</Attr>
+<Attr Name="TraceAdd">0</Attr>
+<Attr Name="TraceDel">0</Attr>
+<Attr Name="TraceMod">0</Attr>
+<Attr Name="TraceView">0</Attr>
+</ListAttr>
+<Metadata>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">AReferenceCode</Attr>
+<Attr Name="UserName">Reference code(s)</Attr>
+<Attr Name="Description">Reference code(s)</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">1</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">BDate</Attr>
+<Attr Name="UserName">Date(s)</Attr>
+<Attr Name="Description">Date(s)</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">1</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">CLevelDescription</Attr>
+<Attr Name="UserName">Level of description</Attr>
+<Attr Name="Description">Level of description</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">1</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">DExtentMedium</Attr>
+<Attr Name="UserName">Extent and medium</Attr>
+<Attr Name="Description">Extent and medium of the unit of description (quantity, bulk or size)</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">1</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">ENameCreator</Attr>
+<Attr Name="UserName">Name of creator(s)</Attr>
+<Attr Name="Description">Name of creator(s)</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">1</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">FAdminBioHistory</Attr>
+<Attr Name="UserName">Admin./Bio. History</Attr>
+<Attr Name="Description">Administrative/Biographical history</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">GArchivalHistory</Attr>
+<Attr Name="UserName">Archival history</Attr>
+<Attr Name="Description">Archival history</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">HSource</Attr>
+<Attr Name="UserName">Immediate source</Attr>
+<Attr Name="Description">Immediate source of acquisition or transfer</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">IScopeContent</Attr>
+<Attr Name="UserName">Scope and content</Attr>
+<Attr Name="Description">Scope and content</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">JAppraisal</Attr>
+<Attr Name="UserName">Appraisal</Attr>
+<Attr Name="Description">Appraisal, destruction and scheduling information</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">KAccruals</Attr>
+<Attr Name="UserName">Accruals</Attr>
+<Attr Name="Description">System of arrangement</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">LSystemArrangement</Attr>
+<Attr Name="UserName">System of arrangement</Attr>
+<Attr Name="Description">System of arrangement</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">MAccess</Attr>
+<Attr Name="UserName">Access</Attr>
+<Attr Name="Description">Conditions governing access</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">NReproduction</Attr>
+<Attr Name="UserName">Reproduction</Attr>
+<Attr Name="Description">Conditions governing reproduction</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">OLanguageScripts</Attr>
+<Attr Name="UserName">Language/scripts</Attr>
+<Attr Name="Description">Language/scripts of material</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">PPhysicalTechnical</Attr>
+<Attr Name="UserName">Physical characteristics</Attr>
+<Attr Name="Description">Physical characteristics and technical requirements</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">QFindingAids</Attr>
+<Attr Name="UserName">Finding aids</Attr>
+<Attr Name="Description">Finding aids</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">ROriginals</Attr>
+<Attr Name="UserName">Originals</Attr>
+<Attr Name="Description">Existence and location of originals</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">SCopies</Attr>
+<Attr Name="UserName">Copies</Attr>
+<Attr Name="Description">Existence and location of copies</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">TRelatedUnits</Attr>
+<Attr Name="UserName">Related units</Attr>
+<Attr Name="Description">Related units of description</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">UPublicationNote</Attr>
+<Attr Name="UserName">Publication note</Attr>
+<Attr Name="Description">Publication note</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">VNote</Attr>
+<Attr Name="UserName">Note</Attr>
+<Attr Name="Description">Note</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">WArchivistNote</Attr>
+<Attr Name="UserName">Archivist's note</Attr>
+<Attr Name="Description">Archivist's note</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">XRulesConventions</Attr>
+<Attr Name="UserName">Rules or conventions</Attr>
+<Attr Name="Description">Rules or conventions</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+<Field>
+<Attr Name="TypName">ISAD_EN</Attr>
+<Attr Name="Name">YDateDescriptions</Attr>
+<Attr Name="UserName">Date(s) of descriptions</Attr>
+<Attr Name="Description">Date(s) of descriptions</Attr>
+<Attr Name="Type">2</Attr>
+<Attr Name="Required">0</Attr>
+<Attr Name="LongAttr">999999</Attr>
+<Attr Name="PrimaryKey">0</Attr>
+<Attr Name="UniqueKey">0</Attr>
+<Attr Name="ModifAllowed">1</Attr>
+<Attr Name="MultiValued">0</Attr>
+</Field>
+</Metadata>
+</OPDObject>
+</OPDList>
